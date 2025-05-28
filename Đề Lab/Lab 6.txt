@@ -1,0 +1,6 @@
+Bài thực hành 6 
+=====================
+1. Xây dựng class Điểm 3 chiều (DIEM3C) kế thừa từ class Điểm 2 chiều (DIEM), bổ sung thuộc tính cao độ z và các phương thức thiết lập, hủy, set và get giá trị cao độ z, kiểm tra trùng điểm, di chuyển điểm, tính khoảng cách giữa 2 điểm, tìm điểm đối xứng, nhập, xuất, tính chu vi tam giác qua 3 điểm, tính diện tích tam giác qua 3 điểm, overload toán tử , overload toán tử .
+2. Xây dựng class Điểm 3 chiều có màu (DIEMMAU3C) kế thừa từ class Điểm 3 chiều (DIEM3C), bổ sung 3 thuộc tính màu RGB - Red Green Blue (3 số nguyên từ 0 đến 255) và các phương thức thiết lập, hủy, set và get giá trị màu, kiểm tra trùng màu, nhập, xuất, overload toán tử , overload toán tử .
+3. Xây dựng class Điểm 2 chiều có màu (DIEMMAU) kế thừa từ 2 class Điểm 2 chiều (DIEM) và class Màu (MAU) và các phương thức xử lý liên quan.
+4. Xây dựng class Điểm 3 chiều có màu (DIEM3CMAU) kế thừa từ 2 class Điểm 3 chiều (DIEM3C) và class Màu (MAU) và các phương thức xử lý liên quan.

@@ -1,0 +1,43 @@
+1
+4
+1
+Le Thien
+17
+5
+2004
+Ba Ria
+1
+cong nghe thong tinh
+MMTT2022.3
+
+2
+Nguyen Huong
+18
+7
+2004
+Vung Tau
+0
+2019
+2019-2023
+UIT
+Mang May Tinh
+
+3
+Hoang Dung
+15
+2
+2005
+Ho Chi Minh
+1
+Cong Ty May
+8000000
+
+4
+Cam Hong
+2
+6
+2004
+Vung Tau
+0
+Hong CUTE
+Dan, Hat

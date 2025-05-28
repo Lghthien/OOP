@@ -1,0 +1,16 @@
+Bài thực hành 3:
+===============================
+Tạo các lớp bao sau từ Lớp Điểm (class DIEM):
+
+1. Lớp Tam giác (class TAMGIAC): 
+
+Thuộc tính: 3 đỉnh A, B, C (là 3 điểm).
+Phương thức: thiết lập/tạo/dựng (constructor), set và get giá trị các thuộc tính, nhập, xuất, di chuyển, tính chu vi, diện tích, kiểm tra hợp lệ, phân loại, >> và <<.
+2. Lớp Hình chữ nhật (class HCN) vuông góc thẳng đứng theo trục tọa độ: 
+
+Thuộc tính: 2 đỉnh A, B (là 2 điểm) là đường chéo HCN.
+Phương thức: thiết lập/tạo/dựng (constructor), set và get giá trị các thuộc tính, nhập, xuất, di chuyển, tính chu vi, diện tích, kiểm tra hợp lệ, >> và <<.
+3. Lớp Hình tròn (class HTRON): 
+
+Thuộc tính: tâm O (là điểm) và bán kính R.
+Phương thức: thiết lập/tạo/dựng (constructor), set và get giá trị các thuộc tính, nhập, xuất, di chuyển, tính chu vi, diện tích, kiểm tra hợp lệ, >> và <<.
